@@ -9,7 +9,9 @@
 ###
 
 <div align="center">
-  <img src="https://www.linkedin.com/in/zekeriya-de%C4%9Firmenci-20a429225/" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/zekeriya-de%C4%9Firmenci-20a429225/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
